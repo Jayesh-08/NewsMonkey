@@ -15,9 +15,10 @@ const News = (props) => {
   const capitalize = (string) => {
     return string.charAt(0).toUpperCase() + string.slice(1);
   }
+
   const updateNews = async () => {
     props.setProgress(10);
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pagesize=${props.pageSize}&sortBy=publishedAt`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pagesize=${props.pageSize}`;
     setLoading(true)
     let data = await fetch(url);
     props.setProgress(30);
@@ -47,7 +48,7 @@ useEffect(() => {
   // }
 
   const fetchMoreData = async () => {
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pagesize=${props.pageSize}&sortBy=publishedAt`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pagesize=${props.pageSize}`;
     setPage(page + 1);
     let data = await fetch(url);
     let parseData = await data.json();
@@ -75,6 +76,7 @@ useEffect(() => {
       </InfiniteScroll>
     </>
   )
+  
 }
 
 News.defaultProps = {
