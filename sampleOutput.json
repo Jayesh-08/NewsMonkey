@@ -1,123 +1,314 @@
 {
-    "status": "ok",
-    "totalResults": 9,
-    "articles": [
+    "status": "success",
+    "totalResults": 1793,
+    "results": [
         {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-            "publishedAt": "2020-04-27T11:41:47Z",
-            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+            "title": "India trashed by Australia at U19 Women’s T20 WC",
+            "link": "https://www.orissapost.com/india-trashed-by-australia-at-u19-womens-t20-wc/",
+            "keywords": [
+                "Sports",
+                "australia",
+                "bangladesh",
+                "Ella Hayward",
+                "Gongadi Trisha",
+                "Hrishita Basu",
+                "ICC",
+                "India",
+                "Kate Pelle",
+                "Maggie Clarke",
+                "Milly Illingworth",
+                "Rhys McKenna",
+                "Shafali Verma",
+                "Shweta Sehrawat",
+                "Sianna Ginger",
+                "U19 Women's T20 World Cup",
+                "uae"
+            ],
+            "creator": [
+                "Post News Network"
+            ],
+            "video_url": null,
+            "description": "Potchefstroom: After being undefeated in the group stage of U19 Women’s T20 World Cup, India were handed their first loss of the tournament through a seven-wicket defeat to Australia in their first Super Sixes clash at the North-West University Oval. Australia captain Rhys McKenna won the toss and chose to bowl first, and that decision […]",
+            "content": "India trashed by Australia at U19 Women’s T20 WC IANS Updated: January 22nd, 2023, 15:38 IST in Sports 0 U19 Women's T20 WC. Image: IANS Share on Facebook Share on Twitter Share on WhatsApp Share on Linkedin Potchefstroom: After being undefeated in the group stage of U19 Women’s T20 World Cup, India were handed their first loss of the tournament through a seven-wicket defeat to Australia in their first Super Sixes clash at the North-West University Oval. Australia captain Rhys McKenna won the toss and chose to bowl first, and that decision paid off as they dismissed India for just 87. Opener Shweta Sehrawat (21 off 29 balls) was the best amongst the Indian batters, striking three boundaries against the new ball. But she lost her partners all too often, as pacer Milly Illingworth struck twice in the early stages to take out captain Shafali Verma and Gongadi Trisha. Maggie Clarke came on and did a similar trick, getting rid of Sonia Mendhiya (2) and the dangerous Richa Ghosh (7) in quick succession. India continued to lose key wickets, and Sehrawat was the fifth victim midway through the 11th over. Hrishita Basu (14 off 23 balls) and Titas Sadhu (14 off 13 balls) tried to give themselves a total to defend through some shots, but it was not enough. In the chase, Australia’s chase saw every batter find the fence on at least one occasion. Sianna Ginger (11) and Kate Pelle (17) added a quick 28 for the opening stand. Though the opening duo and Ella Hayward (7) fell before the end, Claire Moore (25 not out) and Amy Smith (26 not out) had enough freedom to finish with a flourish. Both batters hit sixes with victory in sight, as Australia reached home with 37 balls to spare. Having lost one of their group matches to Bangladesh, Australia brought two points to the second stage of the competition, two less than leaders India and Bangladesh. The win draws them level with India and gives them a real chance of claiming a place in the final four following a big victory over UAE Monday. India, meanwhile, have to win against Sri Lanka in their second Super Sixes match Sunday afternoon, to keep themselves in the hunt for a place in the semi-finals of the inaugural edition of ICC Under-19 Women’s T20 World Cup. Brief Scores: India 87 all out in 18.5 overs (Shweta Sehrawat 21, Hrishita Basu 14; Sianna Ginger 3/13, Milly Illingworth 2/12) lost to Australia 88/3 in 13.5 overs (Amy Smith 26 not out, Claire Moore 25 not out; Archana Devi 1/7, Titas Sadhu 1/13) by seven wickets. IANS Tags: australia bangladesh Ella Hayward Gongadi Trisha Hrishita Basu ICC India Kate Pelle Maggie Clarke Milly Illingworth Rhys McKenna Shafali Verma Shweta Sehrawat Sianna Ginger U19 Women's T20 World Cup uae Share Tweet Send Share Suggest A Correction Enter your email to get our daily news in your inbox. Leave this field empty if you're human: Related Posts Kunlavut, An Seyoung emerge victorious at India Open January 22, 2023 Australian Open: World no 1 Swiatek routed; Korda enters quarters January 22, 2023 India start as favourite against West Indies in T20 Tri-Series January 22, 2023 Focus on line and length and you can rule the world, Shami advises Umran January 22, 2023 Ashleigh Gardner displeased with Australia Day match against Pakistan January 22, 2023 Sania loses in women’s doubles, Jeevan-Balaji also get evicted of Australian Open January 22, 2023 Leave a Reply Cancel reply Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.",
+            "pubDate": "2023-01-22 10:08:08",
+            "image_url": "https://www.orissapost.com/wp-content/uploads/2023/01/Shafali-Verma-300x300.jpg",
+            "source_id": "orissapost",
+            "category": [
+                "sports"
+            ],
+            "country": [
+                "india"
+            ],
+            "language": "english"
         },
         {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "Akram's yorkers, Hegg's hits, and Chapple's 6 for 18 | ESPNcricinfo.com",
-            "description": "This week, we relive the glorious one-day triumphs of Lancashire in the 1990s | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/29102935/o-my-akram-my-hegg-long-ago",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1221634_1296x729.jpg",
-            "publishedAt": "2020-04-27T10:24:08Z",
-            "content": "With still no live cricket in sight, we're digging deep into YouTube to keep ourselves entertained. This week, a trip down memory lane with one of the most dominant one-day sides ever - Lancashire in… [+5185 chars]"
+            "title": "Australian Open: World no 1 Swiatek routed; Korda enters quarters",
+            "link": "https://www.orissapost.com/australian-open-world-no-1-swiatek-routed-korda-enters-quarters/",
+            "keywords": [
+                "Sports",
+                "ATP",
+                "Australian open",
+                "Barbora Krejcikova",
+                "Coco Gauff",
+                "Elena Rybakina",
+                "Felix Auger-Aliassime",
+                "french open",
+                "Garbine Muguruza",
+                "Iga Swiatek",
+                "Jannik Sinner",
+                "Jelena Ostapenko",
+                "Karen Khachanov",
+                "Stefanos Tsitsipas",
+                "wimbledon",
+                "WTA",
+                "Yoshihito Nishioka"
+            ],
+            "creator": [
+                "Post News Network"
+            ],
+            "video_url": null,
+            "description": "Melbourne: It all came so seemingly easy for Iga Swiatek last season, two Grand Slam trophies, eight titles overall, a 37-match winning streak, a lengthy stay at No. 1 in the rankings. Those accomplishments made everyone else expect constant greatness from Swiatek, which she can’t do anything about. They also changed the way she approached […]",
+            "content": "Australian Open: World no 1 Swiatek routed; Korda enters quarters AP Updated: January 22nd, 2023, 15:24 IST in Sports 0 Iga Swiatek. Image: iga_swiatek/Twitter Share on Facebook Share on Twitter Share on WhatsApp Share on Linkedin Melbourne: It all came so seemingly easy for Iga Swiatek last season, two Grand Slam trophies, eight titles overall, a 37-match winning streak, a lengthy stay at No. 1 in the rankings. Those accomplishments made everyone else expect constant greatness from Swiatek, which she can’t do anything about. They also changed the way she approached big moments, and a 6-4, 6-4 loss to Wimbledon champion Elena Rybakina in the Australian Open’s fourth round Sunday made Swiatek wonder whether she needs to reassess her outlook. “I felt like I took a step back in terms of how I approach these tournaments, and I maybe wanted it a little bit too hard. So I’m going to try to chill out a little bit more,” Swiatek said. “I felt the pressure, and I felt that I don’t want to lose’ instead of I want to win.’” So there will not be a showdown between Swiatek and No. 7 seed Coco Gauff in the quarterfinals at Melbourne Park. Instead, it will be Rybakina taking on 2017 French Open champion Jelena Ostapenko, a 7-5, 6-3 winner against Gauff, with a semifinal berth at stake. “I kept her under so much pressure,” Ostapenko said. Add Swiatek’s loss to Week 1 exits by Ons Jabeur, Rafael Nadal and Casper Ruud, and this Australian Open marks the first Grand Slam tournament in the Open era — which began in 1968 — with the top two women’s seeds and top two men’s seeds all gone before the quarterfinals. In other women’s action Sunday, No. 3 Jessica Pegula got to the quarterfinals in Australia for the third year in a row by defeating 2021 French Open champion Barbora Krejcikova 7-5, 6-2, and awaited the winner of the night match between two-time Australian Open champion Victoria Azarenka and unseeded Zhu Lin. Both the 22nd-seeded Rybakina, a 23-year-old who represents Kazakhstan, and the 17th-seeded Ostapenko, a 25-year-old from Latvia, made it this far in Melbourne for the first time. “There was moments in the match where I was getting frustrated, because I normally can problem-solve, but today I feel like I didn’t have much answers to what she was doing,” said Gauff, an 18-year-old from Florida who was the runner-up to Swiatek at the French Open last June. “There was balls I was hitting deep, and she was hitting them on the line and hitting them back deep, over and over again,” said Gauff, who wiped away tears during her news conference. “It’s just one of those days that just didn’t go my way and went her way.” One key: Ostapenko went 3-for-3 converting her break chances, and Gauff was just 1-for-8 in such situations. Rybakina, meanwhile, used her big serve to produce a half-dozen aces, part of an overall 24-15 edge in total winners against Swiatek. In men’s results, 22-year-old American Sebastian Korda — whose father, Petr, won the 1998 Australian Open — reached his first Grand Slam quarterfinal by edging No. 10 Hubert Hurkacz 3-6, 6-3, 6-2, 1-6, 7-6 (10-7), unseeded Jiri Lehecka upset No. 6 Felix Auger-Aliassime 4-6, 6-3, 7-6 (2), 7-6 (3), and No. 18 Karen Khachanov eased past No. 31 Yoshihito Nishioka 6-0, 6-0, 7-6 (4). KORDA-FINALIST 🙌 It's a maiden Grand Slam QF for 🇺🇸 Sebastian Korda! #AusOpen • #AO2023 pic.twitter.com/qrpaZtMlZm — #AusOpen (@AustralianOpen) January 22, 2023 Korda will meet Khachanov now, while Lehecka takes on No. 3 Stefanos Tsitsipas or No. 15 Jannik Sinner. Until Sunday, both Swiatek and Gauff looked fairly dominant for a week, winning every set they contested. Swiatek dropped a total of just 15 games, Gauff just 19, through three matches. “For sure, when you play against No. 1, I think you have really nothing to lose. I knew that I had to be aggressive from the first ball because she’s a great mover, and she defends really well,” Rybakina said. “So I was trying to just attack her from the first ball, and it really worked well.” Her ranking of No. 25 does not properly reflect her ability or results because her championship at the All England Club in July did not come with any ranking points. The WTA and ATP tours withheld all points at Wimbledon in 2022 after the All England Club barred players from Russia and Belarus from participating because of the invasion of Ukraine. Rybakina — who was born in Moscow but has played for Kazakhstan since 2018, when that country offered her funding to support her tennis career — said her current standing “doesn’t bother me, because it’s been already six months,” yet also acknowledged it does provide some motivation. Despite her status as a major champion, Rybakina has been out of the spotlight: Her first-round match at Melbourne Park was placed on tiny Court 13 last Monday; her match against two-time Slam champ Garbiñe Muguruza at least year’s U.S. Open was on Court 4. But her game is worthy of much more attention, as she displayed in knocking out Swiatek, one match after defeating 2022 Australian Open runner-up Danielle Collins. Swiatek was not at her best, and Rybakina had a lot to do with that. In the opening game, Swiatek led 40-love but got broken. In the next, Swiatek held two break points at 15-40 but failed to convert either. So early on, while it ended up being 2-2, it very well could have been 4-0 in Swiatek’s favor, and she termed that sequence “a little bit disturbing.” Rybakina wound up serving out that set at love, capping it with a 113 mph (183 kph) ace, and her dangerous backhand was quite a help, too: She produced six winners off that wing in the first set, compared with zero for Swiatek. In the second set, Swiatek appeared to have gotten herself back on track, going up 3-0. But that surge didn’t last long, and Rybakina took six of the match’s last seven games. AP Tags: ATP Australian open Barbora Krejcikova Coco Gauff Elena Rybakina Felix Auger-Aliassime french open Garbine Muguruza Iga Swiatek Jannik Sinner Jelena Ostapenko Karen Khachanov Stefanos Tsitsipas wimbledon WTA Yoshihito Nishioka Share Tweet Send Share Suggest A Correction Enter your email to get our daily news in your inbox. Leave this field empty if you're human: Related Posts Kunlavut, An Seyoung emerge victorious at India Open January 22, 2023 India trashed by Australia at U19 Women’s T20 WC January 22, 2023 India start as favourite against West Indies in T20 Tri-Series January 22, 2023 Focus on line and length and you can rule the world, Shami advises Umran January 22, 2023 Ashleigh Gardner displeased with Australia Day match against Pakistan January 22, 2023 Sania loses in women’s doubles, Jeevan-Balaji also get evicted of Australian Open January 22, 2023 Leave a Reply Cancel reply Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.",
+            "pubDate": "2023-01-22 09:54:32",
+            "image_url": "https://www.orissapost.com/wp-content/uploads/2023/01/Iga-Swiatek-1-300x185.jpg",
+            "source_id": "orissapost",
+            "category": [
+                "sports"
+            ],
+            "country": [
+                "india"
+            ],
+            "language": "english"
         },
         {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
-            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
-            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
-            "publishedAt": "2020-04-27T07:20:43Z",
-            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+            "title": "India start as favourite against West Indies in T20 Tri-Series",
+            "link": "https://www.orissapost.com/india-start-as-favourite-against-west-indies-in-t20-tri-series/",
+            "keywords": [
+                "Sports",
+                "Amanjot Kaur",
+                "Deepti Sharma",
+                "Harleen Deol",
+                "Harmanpreet Kaur (c)",
+                "Jemimah Rodrigues",
+                "Pooja Vastrakar",
+                "Radha Yadav",
+                "Rajeshwari Gayakwad",
+                "Renuka Singh Thakur",
+                "richa ghosh",
+                "Shafali Verma",
+                "shikha pandey",
+                "Smriti Mandhana",
+                "Sneh Rana",
+                "south africa",
+                "Sushma Verma",
+                "Women's T20 World Cup",
+                "Women’s T20 Tri-series",
+                "Yastika Bhatia (wk)"
+            ],
+            "creator": [
+                "Post News Network"
+            ],
+            "video_url": null,
+            "description": "East London: Hoping for its seniors to return to the playing XI, the Indian team will look to continue the winning run, when it takes on the West Indies in the Women’s T20 Tri-Series match here Monday. The Indians, without skipper Harmanpreet Kaur in the win over hosts South Africa, gave a good account of […]",
+            "content": "India start as favourite against West Indies in T20 Tri-Series PTI Updated: January 22nd, 2023, 15:03 IST in Sports 0 Share on Facebook Share on Twitter Share on WhatsApp Share on Linkedin East London: Hoping for its seniors to return to the playing XI, the Indian team will look to continue the winning run, when it takes on the West Indies in the Women’s T20 Tri-Series match here Monday. The Indians, without skipper Harmanpreet Kaur in the win over hosts South Africa, gave a good account of themselves in their opener. The captain missed the tie against South Africa owing to illness and it remains to be seen if she returns for the match against the West Indies, who are coming off a big loss against the home side. India’s playing XI also didn’t feature the returning Shikha Pandey, Renuka Singh and Pooja Vastrakar in their first game. Handed the India cap by stand-in skipper Smriti Mandhana, debutant Amanjot Kaur made her first outing a memorable one with a fine performance. Reeling at 69 for five at one stage, India went ont to make a fighting 147 for six after Amanjot’s 30-ball 41 while batting at number seven. Fitting, she was named the Player of the Match in a 27-run victory. Irrespective of whether the seniors return or not against the West Indies, a bit of focus will surely be on the 21-year-old Amanjot here Monday, when the Women in Blue will look to consolidate their position in the tournament. “It’s an unreal feeling. I had never thought my first match for India would go this way. This is my first press conference. And to be the Player of the Match – that was even more unexpected,” Amanjot said after the opening match here. The tri-series is significant as it is the last tournament before the Women’s T20 World Cup which South Africa is hosting next month. The tri-series is slated to end February 2. Even though some seniors have taken ill and teen sensations Shafali Verma and Richa Ghosh are busy with their commitments in the U-19 World Cup, India can call on the services of their ever-reliable senior all-rounder, Deepti Sharma. Deepti was at her best against the South Africans, scoring a 23-ball 33 and taking 3/30 in a brilliant all-round display. She will look for an encore in the upcoming match. As far as the West Indies are concerned, they will need to improve in all departments if they are challenge the Indians. Indian team: Smriti Mandhana, Jemimah Rodrigues, Devika Vaidya, Sabbhineni Meghana, Harmanpreet Kaur (c), Harleen Deol, Deepti Sharma, Pooja Vastrakar, Shikha Pandey, Yastika Bhatia (wk), Sushma Verma, Rajeshwari Gayakwad, Radha Yadav, Renuka Singh Thakur, Meghna Singh, Anjali Sarvani, Sneh Rana, Amanjot Kaur. PTI Tags: Amanjot Kaur Deepti Sharma Harleen Deol Harmanpreet Kaur (c) Jemimah Rodrigues Pooja Vastrakar Radha Yadav Rajeshwari Gayakwad Renuka Singh Thakur richa ghosh Shafali Verma shikha pandey Smriti Mandhana Sneh Rana south africa Sushma Verma Women's T20 World Cup Women’s T20 Tri-series Yastika Bhatia (wk) Share Tweet Send Share Suggest A Correction Enter your email to get our daily news in your inbox. Leave this field empty if you're human: Related Posts Kunlavut, An Seyoung emerge victorious at India Open January 22, 2023 India trashed by Australia at U19 Women’s T20 WC January 22, 2023 Australian Open: World no 1 Swiatek routed; Korda enters quarters January 22, 2023 Focus on line and length and you can rule the world, Shami advises Umran January 22, 2023 Ashleigh Gardner displeased with Australia Day match against Pakistan January 22, 2023 Sania loses in women’s doubles, Jeevan-Balaji also get evicted of Australian Open January 22, 2023 Leave a Reply Cancel reply Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.",
+            "pubDate": "2023-01-22 09:33:41",
+            "image_url": "https://www.orissapost.com/wp-content/uploads/2022/01/160900-mhjnywbnpm-1624947063-300x158.jpg",
+            "source_id": "orissapost",
+            "category": [
+                "sports"
+            ],
+            "country": [
+                "india"
+            ],
+            "language": "english"
         },
         {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "Sri Lanka don't win the 1996 World Cup | ESPNcricinfo.com",
-            "description": "Because fairy-tales only exist in story books | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/29101950/sri-lanka-had-not-won-1996-world-cup",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219948_900x506.jpg",
-            "publishedAt": "2020-04-27T01:00:01Z",
-            "content": "This time in Alternative Universe, the series in which our writers let their imagination change the game: our masochistic Sri Lanka correspondent wonders what would have happened if Arjuna Ranatunga'… [+2734 chars]"
+            "title": "Is Virat Kohli the greatest ODI batter of all-time? Manjrekar gives his take",
+            "link": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-virat-kohli-odi-goat-sanjay-manjrekar-vivian-richards-2324846-2023-01-22?utm_source=rss",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Is Virat Kohli the greatest ODI batter of all-time? Manjrekar gives his take",
+            "content": null,
+            "pubDate": "2023-01-22 09:30:18",
+            "image_url": null,
+            "source_id": "indiatoday",
+            "category": [
+                "sports"
+            ],
+            "country": [
+                "india"
+            ],
+            "language": "english"
         },
         {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "I'm fighting my own benchmarks - R Ashwin | ESPNcricinfo.com",
-            "description": "India's No. 1 offspinner talks to Manjrekar on his form abroad, injuries and more | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/29102228/fighting-my-own-benchmarks-r-ashwin",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219773_1296x729.jpg",
-            "publishedAt": "2020-04-25T03:00:09Z",
-            "content": "R Ashwin has said that he is \"fighting my own benchmarks\" because his Test performances overseas are being measured against his heroics in India. Despite being the country's best long-form spinner in… [+3347 chars]"
+            "title": "Border-Gavaskar trophy: Australia's Cummins chooses between Tendulkar and Kohli",
+            "link": "https://www.indiatoday.in/sports/cricket/story/border-gavaskar-trophy-2023-india-vs-australia-sachin-tendulkar-virat-kohli-pat-cummins-2324842-2023-01-22?utm_source=rss",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Border-Gavaskar trophy: Australia's Cummins chooses between Tendulkar and Kohli",
+            "content": null,
+            "pubDate": "2023-01-22 09:26:04",
+            "image_url": null,
+            "source_id": "indiatoday",
+            "category": [
+                "sports"
+            ],
+            "country": [
+                "india"
+            ],
+            "language": "english"
         },
         {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "The Coronavirus soap opera, starring KP, Warnie, Mahela | ESPNcricinfo.com",
-            "description": "Also featuring a pining Ravi Shastri | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/28979161/andrew-fernando-satirical-look-back-cricket-march-2020",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219981_1296x1296.jpg",
-            "publishedAt": "2020-04-01T10:15:40Z",
-            "content": "March had a few moments of cricketing glory, most notably the conclusion of the Women's T20 World Cup in Australia. Although cricket administrators took one last chance to impose their foolishness, b… [+3817 chars]"
+            "title": "Focus on line and length and you can rule the world, Shami advises Umran",
+            "link": "https://www.orissapost.com/focus-on-line-and-length-and-you-can-rule-the-world-shami-advises-umran/",
+            "keywords": [
+                "Sports",
+                "JAMMU AND KASHMIR",
+                "mohammed shami",
+                "Mohammed Siraj",
+                "new zealand",
+                "odi",
+                "Umran Malik"
+            ],
+            "creator": [
+                "Post News Network"
+            ],
+            "video_url": null,
+            "description": "Raipur: Veteran Indian pacer Mohammed Shami feels young Umran Malik, with his raw pace, has a bright future ahead and the youngster “can rule the world” if he works on his line and length. The Jammu and Kashmir speedster has impressed with his express pace, bowling at 150 clicks consistently but has struggled with accuracy. […]",
+            "content": "Focus on line and length and you can rule the world, Shami advises Umran PTI Updated: January 22nd, 2023, 14:53 IST in Sports 0 Umran Malik Image: PTI Share on Facebook Share on Twitter Share on WhatsApp Share on Linkedin Raipur: Veteran Indian pacer Mohammed Shami feels young Umran Malik, with his raw pace, has a bright future ahead and the youngster “can rule the world” if he works on his line and length. The Jammu and Kashmir speedster has impressed with his express pace, bowling at 150 clicks consistently but has struggled with accuracy. “There’s only one piece of advice I want to give. I don’t think it’s easy to play against the pace that you have. Just that we need to work a little on line and length. If we can get a command over it, we can rule the world. “You have a lot of power, future is bright. Best wishes for you, hope you do well,” Shami said during a chat with Umran, which has been posted by bcci.Tv. Shami and Mohammed Siraj generated considerable seam movement to run through the New Zealand’s top-order as the hosts cantered to an eight-wicket win in the second ODI to seal the three-match series here on Saturday. When Umran asked how he remains so calm and happy in every match, Shami said “When you are playing for the country, you shouldn’t take pressure on yourself. You should keep trusting your skills. You tend to get carried away when under pressure. “But, when you keep your cool and keep trusting your skills, you have better opportunity to execute your plans. When you are doing well, then the importance of focussing is more. “Keep your smile on, it’s white-ball cricket, anybody can get hit. But keep believing in your skill and keep an eye on the pitch and bowl accordingly,” he added. PTI Tags: JAMMU AND KASHMIR mohammed shami Mohammed Siraj new zealand odi Umran Malik Share Tweet Send Share Suggest A Correction Enter your email to get our daily news in your inbox. Leave this field empty if you're human: Related Posts Kunlavut, An Seyoung emerge victorious at India Open January 22, 2023 India trashed by Australia at U19 Women’s T20 WC January 22, 2023 Australian Open: World no 1 Swiatek routed; Korda enters quarters January 22, 2023 India start as favourite against West Indies in T20 Tri-Series January 22, 2023 Ashleigh Gardner displeased with Australia Day match against Pakistan January 22, 2023 Sania loses in women’s doubles, Jeevan-Balaji also get evicted of Australian Open January 22, 2023 Leave a Reply Cancel reply Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.",
+            "pubDate": "2023-01-22 09:23:34",
+            "image_url": "https://www.orissapost.com/wp-content/uploads/2023/01/Umran-Malik-300x178.jpg",
+            "source_id": "orissapost",
+            "category": [
+                "sports"
+            ],
+            "country": [
+                "india"
+            ],
+            "language": "english"
         },
         {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "Five CSK games only hardcore fans will remember | ESPNcricinfo.com",
-            "description": "From throwing a surprise in the batting order to smashing sixes after sixes, CSK have done it all | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/28974528/five-csk-games-only-hardcore-fans-remember",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219712_1296x729.jpg",
-            "publishedAt": "2020-03-31T10:23:03Z",
-            "content": "If you're a Chennai Super Kings supporter, you'll remember MS Dhoni's sensational 29-ball 54 not out against Kings XI Punjab in Dharamsala in 2010 and that rare, pumped-up celebration where he jabbed… [+4410 chars]"
+            "title": "Ashleigh Gardner displeased with Australia Day match against Pakistan",
+            "link": "https://www.orissapost.com/ashleigh-gardner-displeased-australia-day-match-against-pakistan/",
+            "keywords": [
+                "Sports",
+                "Ashleigh gardner",
+                "australia",
+                "Australia Day",
+                "Cricket Australia",
+                "Scott Morrison"
+            ],
+            "creator": [
+                "Post News Network"
+            ],
+            "video_url": null,
+            "description": "Sydney: An indigenous Australian member of the Australian national women’s cricket team has condemned a decision to play a Twenty20 international against Pakistan on Australia’s national day. The holiday January 26 commemorates the arrival in 1788 of the “first fleet” which brought first white settlers to Australia. But some indigenous Australians commemorate the day as […]",
+            "content": "Ashleigh Gardner displeased with Australia Day match against Pakistan AP Updated: January 22nd, 2023, 14:42 IST in Sports 0 Ashleigh Gardner Image: IANS Share on Facebook Share on Twitter Share on WhatsApp Share on Linkedin Sydney: An indigenous Australian member of the Australian national women’s cricket team has condemned a decision to play a Twenty20 international against Pakistan on Australia’s national day. The holiday January 26 commemorates the arrival in 1788 of the “first fleet” which brought first white settlers to Australia. But some indigenous Australians commemorate the day as Invasion Day or Colonization Day because the arrivals set in motion the seizure of lands and the diminution of the indigenous Australian culture. Ashleigh Gardner who is the second indigenous Australian woman to play test cricket for Australia said January 26 is a “day of hurt and a day of mourning” for her people. In a tweet Gardner said playing a match on the day “certainly doesn’t sit well with me as an individual but also all the people I’m representing. “For those who don’t have a good understanding of what that day means it was the beginning of genocide, massacres and dispossession,” she said. “When I take the field for this game I will certainly be reflecting and thinking about all of my ancestors and peoples’ lives who changed from this day.” 🖤💛❤️ pic.twitter.com/xcXRciCFqU — Ashleigh Gardner (@akgardner97) January 21, 2023 Cricket Australia has yet to confirm details of the match but the Australian Associated Press reported the Australian players will likely perform a barefoot ceremony before the match and wear an indigenous-themed uniform. In 2021, Cricket Australia became the first Australian national sports body to phase out the use of the term Australia Day. Then Prime Minister Scott Morrison was highly critical of the move. The Australian women last played January 26 in 2016. AP Tags: Ashleigh gardner australia Australia Day Cricket Australia Scott Morrison Share Tweet Send Share Suggest A Correction Enter your email to get our daily news in your inbox. Leave this field empty if you're human: Related Posts Kunlavut, An Seyoung emerge victorious at India Open January 22, 2023 India trashed by Australia at U19 Women’s T20 WC January 22, 2023 Australian Open: World no 1 Swiatek routed; Korda enters quarters January 22, 2023 India start as favourite against West Indies in T20 Tri-Series January 22, 2023 Focus on line and length and you can rule the world, Shami advises Umran January 22, 2023 Sania loses in women’s doubles, Jeevan-Balaji also get evicted of Australian Open January 22, 2023 Leave a Reply Cancel reply Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.",
+            "pubDate": "2023-01-22 09:12:00",
+            "image_url": "https://www.orissapost.com/wp-content/uploads/2023/01/Ashleigh-Gardner-300x213.jpg",
+            "source_id": "orissapost",
+            "category": [
+                "sports"
+            ],
+            "country": [
+                "india"
+            ],
+            "language": "english"
         },
         {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "'This is a ball the whole world will remember' - Saeed Ajmal v Sachin Tendulkar revisited | ESPNcricinfo.com",
-            "description": "We asked experts - and one participant - their considered view of the controversial Hawk-Eye projection | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/28973835/this-ball-whole-world-remember-saeed-ajmal-v-sachin-tendulkar-revisited",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219912_1296x729.jpg",
-            "publishedAt": "2020-03-30T18:45:45Z",
-            "content": "It was a replay that rang around the world. Sachin Tendulkar is given out on the field to Saeed Ajmal, reviews it after a long discussion with his partner, and is reinstated by a Hawk-Eye projection … [+6247 chars]"
+            "title": "Sania loses in women’s doubles, Jeevan-Balaji also get evicted of Australian Open",
+            "link": "https://www.orissapost.com/sania-loses-in-womens-doubles-jeevan-balaji-also-get-evicted-of-australian-open/",
+            "keywords": [
+                "Sports",
+                "Alison van Uytvanck",
+                "Anhelina Kalinina",
+                "Anna Danilina",
+                "Australian open",
+                "Fabrice Martin",
+                "GRAND SLAM",
+                "Jaimee Fourlis",
+                "Jeevan Nedunchezhiyan",
+                "Jeremy Chardy",
+                "Luke Saville",
+                "N Sriram Balaji",
+                "Rohan Bopanna",
+                "sania mirza",
+                "ukraine"
+            ],
+            "creator": [
+                "Post News Network"
+            ],
+            "video_url": null,
+            "description": "Melbourne: Sania Mirza’s last women’s doubles Grand Slam match ended in defeat as she went down 4-6 6-4 2-6 in the second round of the Australian Open here Sunday. Mirza and her Kazakh partner Anna Danilina, seeded eighth, lost to Belgium’s Alison Van Uytvanck and Ukraine’s Anhelina Kalinina in a clash lasting little over two […]",
+            "content": "Sania loses in women’s doubles, Jeevan-Balaji also get evicted of Australian Open PTI Updated: January 22nd, 2023, 14:29 IST in Sports 0 Sania Mirza File Image Share on Facebook Share on Twitter Share on WhatsApp Share on Linkedin Melbourne: Sania Mirza’s last women’s doubles Grand Slam match ended in defeat as she went down 4-6 6-4 2-6 in the second round of the Australian Open here Sunday. Mirza and her Kazakh partner Anna Danilina, seeded eighth, lost to Belgium’s Alison Van Uytvanck and Ukraine’s Anhelina Kalinina in a clash lasting little over two hours. The Indian men’s doubles pair of N Sriram Balaji and Jeevan Nedunchezhiyan’s run in the competition was also halted by the French duo of Jeremy Chardy and Fabrice Martin in the second round. Balaji and Nedunchezhiyan, who came into the tournament as an alternate team, were handed a 4-6 4-6 defeat, ending India’s challenge in the men’s doubles event. A set down and trailing 0-3 in the second, Mirza and Danilina fought back as they won three games in a row. They got a crucial break in the seventh game when Kalinina and Van Van Uytvanck hit a forehand wide, sending the match into the decider. However, in the third set the Indo-Kazakh were not able to carry forward the winning momentum as they were broken thrice. Mirza is, however, still alive in the mixed doubles draw with veteran Rohan Bopanna. The duo had dispatched locals Jaimee Fourlis and Luke Saville 7-5 6-3 in their opening round Saturday. A six-time Grand Slam champion (three in women’s doubles and mixed doubles each), the 36-year-old Mirza had announced that the Australian Open would be her last Grand Slam and she would be retiring after the WTA 1000 Dubai Tennis Championships, slated from February 19. PTI Tags: Alison van Uytvanck Anhelina Kalinina Anna Danilina Australian open Fabrice Martin GRAND SLAM Jaimee Fourlis Jeevan Nedunchezhiyan Jeremy Chardy Luke Saville N Sriram Balaji Rohan Bopanna sania mirza ukraine Share Tweet Send Share Suggest A Correction Enter your email to get our daily news in your inbox. Leave this field empty if you're human: Related Posts Kunlavut, An Seyoung emerge victorious at India Open January 22, 2023 India trashed by Australia at U19 Women’s T20 WC January 22, 2023 Australian Open: World no 1 Swiatek routed; Korda enters quarters January 22, 2023 India start as favourite against West Indies in T20 Tri-Series January 22, 2023 Focus on line and length and you can rule the world, Shami advises Umran January 22, 2023 Ashleigh Gardner displeased with Australia Day match against Pakistan January 22, 2023 Leave a Reply Cancel reply Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.",
+            "pubDate": "2023-01-22 08:59:32",
+            "image_url": "https://www.orissapost.com/wp-content/uploads/2020/02/sania-mirza-300x169.jpg",
+            "source_id": "orissapost",
+            "category": [
+                "sports"
+            ],
+            "country": [
+                "india"
+            ],
+            "language": "english"
         },
         {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-            "publishedAt": "2020-03-30T15:26:05Z",
-            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+            "title": "Govt suspends all WFI activities, Federation’s emergency council meeting called off",
+            "link": "https://www.orissapost.com/govt-suspends-all-wfis-activities-federations-emergency-council-meeting-called-off/",
+            "keywords": [
+                "National",
+                "Prime News",
+                "Sports",
+                "Anurag Thakur",
+                "Ayodhya",
+                "Bajrang Punia",
+                "Brij Bhushan Sharan Singh",
+                "Ravi Dahiya",
+                "Sakshi Malik",
+                "Sports Minister",
+                "SPORTS MINISTRY",
+                "Vinesh Phogat",
+                "Vinod Tomar",
+                "WFI"
+            ],
+            "creator": [
+                "Post News Network"
+            ],
+            "video_url": null,
+            "description": "Ayodhya: The Wrestling Federation of India’s (WFI) emergency general council meeting, scheduled here for Sunday, was called off after the Sports Ministry directed it to suspend all ongoing activities owing to the various allegations against the sports body and its president. The ministry Saturday said it has asked the WFI to suspend “all ongoing activities […]",
+            "content": "Govt suspends all WFI activities, Federation’s emergency council meeting called off PTI Updated: January 22nd, 2023, 14:17 IST in National , Prime News , Sports 0 Brij Bhushan Sharan Singh. Image: PTI Share on Facebook Share on Twitter Share on WhatsApp Share on Linkedin Ayodhya: The Wrestling Federation of India’s (WFI) emergency general council meeting, scheduled here for Sunday, was called off after the Sports Ministry directed it to suspend all ongoing activities owing to the various allegations against the sports body and its president. The ministry Saturday said it has asked the WFI to suspend “all ongoing activities with immediate effect”, including the Ranking Tournament in Gonda, UP, the federation president Brij Bhushan Sharan Singh’s stronghold. Sharan has been accused of sexually harassing women wrestlers and working like a dictator by some of the country’s top wrestlers, including Vinesh Phogat, Bajrang Punia, Sakshi Malik and Ravi Dahiya. The ministry Saturday also suspended WFI’s assistant secretary Vinod Tomar, a fallout of the grapplers’ allegations of sexual harassment and corruption against the sports body’s chief. It had decided to suspend Tomar, “with immediate effect, to ensure proper functioning of WFI”. Friday, Sharan’s son Prateek had said that his father would issue a statement on the allegations against him after the sports body’s meeting. While the ministry has directed Sharan to stay away from the day-to-day affairs of the WFI, he was present during the wrestling event in Nandini Nagar Saturday. Also Friday, Sports Minister Anurag Thakur had announced the formation of an oversight committee to probe the charges levelled by the top wrestlers against Sharan and his body. The ministry is expected to announce the names of its oversight committee members Sunday. In a press release Saturday, the ministry said it “has communicated to the Wrestling Federation of India Saturday that in view of the Government’s decision to appoint an Oversight Committee to investigate the various allegations raised by athletes against the Federation, WFI will suspend all ongoing activities with immediate effect, unless the Oversight Committee is formally appointed and takes over the day to day functioning of WFI”. PTI Tags: Anurag Thakur Ayodhya Bajrang Punia Brij Bhushan Sharan Singh Ravi Dahiya Sakshi Malik Sports Minister SPORTS MINISTRY Vinesh Phogat Vinod Tomar WFI Share Tweet Send Share Suggest A Correction Enter your email to get our daily news in your inbox. Leave this field empty if you're human: Related Posts Kunlavut, An Seyoung emerge victorious at India Open January 22, 2023 Will not tolerate negligence in Rahul Gandhi’s security, says Jairam Ramesh January 22, 2023 President to accord bravery award to 11 children Monday January 22, 2023 Jammu and Kashmir: NIA team visits Narwal twin blast site January 22, 2023 Rijiju shares interview of judge who says SC ‘hijacked’ Constitution January 22, 2023 India trashed by Australia at U19 Women’s T20 WC January 22, 2023 Leave a Reply Cancel reply Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.",
+            "pubDate": "2023-01-22 08:47:39",
+            "image_url": "https://www.orissapost.com/wp-content/uploads/2023/01/Brij-Bhushan-Sharan-Singh-300x192.jpg",
+            "source_id": "orissapost",
+            "category": [
+                "sports"
+            ],
+            "country": [
+                "india"
+            ],
+            "language": "english"
+        },
+        {
+            "title": "Australian Open: Jiri Lehecka stuns Auger-Aliassime, Pegula into quarters",
+            "link": "https://www.indiatoday.in/sports/tennis/story/australian-open-2023-jiri-lehecka-felix-auger-aliassime-jessica-pegula-2324830-2023-01-22?utm_source=rss",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Australian Open: Jiri Lehecka stuns Auger-Aliassime, Pegula into quarters",
+            "content": null,
+            "pubDate": "2023-01-22 08:39:26",
+            "image_url": null,
+            "source_id": "indiatoday",
+            "category": [
+                "sports"
+            ],
+            "country": [
+                "india"
+            ],
+            "language": "english"
         }
-    ]
+    ],
+    "nextPage": "16743767663e7838af4a577bb8580576aa7a0daea2"
 }
